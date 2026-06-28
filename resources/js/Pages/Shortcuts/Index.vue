@@ -62,7 +62,7 @@
                             <input type="text" v-model="form.title" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" placeholder="e.g. Laravel Serve" />
                         </div>
                         <div>
-                            <label class="block text-sm font-medium text-gray-700 mb-1">Categorys</label>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Category</label>
                             <select v-model="form.category" class="w-full border border-gray-300 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500">
                                 <option value="">Select category</option>
                                 <option>Laravel</option>
