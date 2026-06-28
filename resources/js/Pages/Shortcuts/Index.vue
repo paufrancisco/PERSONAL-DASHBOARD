@@ -27,7 +27,7 @@
                     <tbody class="bg-white divide-y divide-gray-200">
                         <tr v-if="store.shortcuts.length === 0">
                             <td colspan="4" class="px-6 py-4 text-center text-gray-400">
-                                No shortcuts yet.
+                                No shortcuts yet.asd
                             </td>
                         </tr>
                         <tr v-for="shortcut in store.shortcuts" :key="shortcut.id">
